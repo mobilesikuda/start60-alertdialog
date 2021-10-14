@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">start60-alertdialog</string>
+    <string name="alert_dialog_button">Choose color</string>
+    <string name="sample_alert_dialog">Sample alert dialog</string>
+    <string name="color_setup">Color setup</string>
+    <string name="action_confirm">Confirm</string>
+    <string name="current_color">Current color</string>
+
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+</resources>
